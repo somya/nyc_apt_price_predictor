@@ -1,8 +1,8 @@
 
 
 # Constants
-raw_directory = "data/raw/"
-csv_directory = "data/csv/"
+raw_directory = "input/raw/"
+csv_directory = "input/csv/"
 
 # Declare column names to allow for auto completion :)
 
